@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at York University, specializing in Software Development. I enjoy building practical software and understanding how it works behind the scenes.
 
-My interests include backend development, desktop applications, and systems programming. I like working with C and C++ to explore how software handles memory, files, and graphics, and with Java and Spring Boot to build backend applications.
+My interests include backend development, computer graphics, and systems programming. I like working with C and C++ to explore how software handles memory, files, and graphics, and with Java and Spring Boot to build backend applications.
 
 This profile is where I share my projects, experiments, and what I'm learning along the way.
 
